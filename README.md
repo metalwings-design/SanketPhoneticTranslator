@@ -21,11 +21,11 @@ Load the library:
 
 use function transliterate_dataset, enter your dataset name in place of dataset, enter dircetion that you want to convert:
 
-      transliterate_dataset(dataset, direction)
+      transliterate_dataset(dataset, "direction")
 
 ## Example:
-        transliterate_dataset(data, hindi2english)
-        transliterate_dataset(data, english2hindi)
+        transliterate_dataset(data, "hindi2english")
+        transliterate_dataset(data, "english2hindi")
 
 ## How It Helps Translate:
 * Analyzing social media content, customer feedback, or survey responses in Hindi and English languages.
