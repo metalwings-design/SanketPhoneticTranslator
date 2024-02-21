@@ -14,6 +14,15 @@ with multilingual data or requiring seamless translation between Hindi and Engli
 
 <h4>Integration with R Environment:</h4> Seamlessly integrates with the R programming environment, enabling users to incorporate transliteration capabilities directly into their R projects, scripts, or analyses.
 
+## Download package:
+Download package from CRAN:
+
+        install.packages("sanketphonetictranslator")
+
+Download package from github:
+       
+        devtools::install_github("metalwings-design/SanketPhoneticTranslator")
+
 ## Usage:
 Load the library:
       
